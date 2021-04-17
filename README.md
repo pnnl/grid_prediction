@@ -20,28 +20,27 @@ This repository encloses code for the two models **deepDMD** and **STGCN**. Both
 
 1- Open terminal and run below commands step by step :
 	 
-	 -- conda env create -f Env_Setup_Files/deepDMD_environment.yml  
-	 -- conda activate deepDMD_env 
+	-- conda env create -f Env_Setup_Files/deepDMD_environment.yml  
+	-- conda activate deepDMD_env 
 
 2- Run below commands to open Jupyter Lab for either training or testing of deepDMD model:
 
- - For training deepDMD model run below command: 
+ 	- For training deepDMD model run below command: 
 		
 		-- jupyter lab Models_Code/deepDMD/deepDMD_Training.ipynb
 
- - For testing deepDMD model run below command : 
+ 	- For testing deepDMD model run below command : 
 		
 		-- jupyter lab Models_Code/deepDMD/SM_deepDMD_Testing.ipynb
 
 ### Instructions to setup STGCN model environment
 
-
 1- Open terminal and run below commands step by step :
 	 
-	 -- conda env create -f Env_Setup_Files/stgcn_env.yml  
-	 -- conda activate stgcn_env
+	-- conda env create -f Env_Setup_Files/stgcn_env.yml  
+	-- conda activate stgcn_env
 
 2- Run below commands to train STGCN model:
 			
-		-- cd Models_Code/STGCN_PNNL/
-		-- python main.py 
+	-- cd Models_Code/STGCN_PNNL/
+	-- python main.py 
