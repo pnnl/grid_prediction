@@ -1,5 +1,3 @@
-# grid_prediction
-
 # Evaluation of Deep Learning Based Predictive Models Using Power Systems Use Case
 
 Many important application datastreams can be modeled as a complex graph of entities, where each graph node or entity is associated with a multivariate time-series. The overall system’s behavior is modeled as a dynamical system, and it may evolve through structural changes in the graph, and/or changes in the node-level measurements. Such networks include the power grid, social networks etc. 
@@ -8,7 +6,9 @@ This project aims to develop a framework where a distributed network of autonomo
 
 Both Deep DMD and STGCN  are  trained,  tested  and  compared  rigorously based  on  their  predictions  of  frequencies  in  the  IEEE  68  bus system when subjected to a disturbance. GridSTAGE framework developed at the Pacific Northwest National Laboratory is leveraged to generate multiple datasets (in the form of PMU measurements)for  training  and  testing  by  strategically  creating  load  changes across   the   spatial   locations   of   the   network.   
 
+# For more details about this work, find the Overview.pptx and we refer the readers to the work: ....
 
+# Project Team: Sutanay Choudhury (PI), Sai Pushpak Nandanoori, Soumya Kundu, Seemita Pal, Khushbu Agarwal (PNNL), Yinghui Wu, Sheng Guan (Case Western Reserve University)
 
 # Setup
 
