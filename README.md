@@ -6,9 +6,9 @@ This project aims to develop a framework where a distributed network of autonomo
 
 Both Deep DMD and STGCN  are  trained,  tested  and  compared  rigorously based  on  their  predictions  of  frequencies  in  the  IEEE  68  bus system when subjected to a disturbance. GridSTAGE framework developed at the Pacific Northwest National Laboratory is leveraged to generate multiple datasets (in the form of PMU measurements)for  training  and  testing  by  strategically  creating  load  changes across   the   spatial   locations   of   the   network.   
 
-# For more details about this work, find the Overview.pptx and we refer the readers to the work: ....
+# For more details about this work, find the Overview.pptx and we refer the readers to the work: ....(to be filled)
 
-# Project Team: Sutanay Choudhury (PI), Sai Pushpak Nandanoori, Soumya Kundu, Seemita Pal, Khushbu Agarwal (PNNL), Yinghui Wu, Sheng Guan (Case Western Reserve University)
+### Project Team: Sutanay Choudhury (PI), Sai Pushpak Nandanoori, Soumya Kundu, Seemita Pal, Khushbu Agarwal (PNNL), Yinghui Wu, Sheng Guan (Case Western Reserve University)
 
 # Setup
 
