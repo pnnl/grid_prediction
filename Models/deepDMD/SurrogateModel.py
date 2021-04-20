@@ -25,7 +25,7 @@ The input data to this code is normalized and the output data
 of this code is normalized as well
 """
 
-dir_name = 'Models'
+dir_name = 'trained_deepDMD_model'
 mat_file_contents = sio.loadmat(dir_name+'/Robust_deepDMD.mat')
 K = mat_file_contents['K']
 encoder_weights = mat_file_contents['Weights'][0]
